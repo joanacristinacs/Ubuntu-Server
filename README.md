@@ -1,12 +1,12 @@
-# Configuração do Ubuntu Server Usando VirtualBox
+<h1 align="center">Configuração do Ubuntu Server Usando VirtualBox</h1>
+
 <p align="center">
   <img src="https://github.com/joanacristinacs/Ubuntu-Server/assets/114433945/8d0b1b09-26b2-42d1-8869-4c7ac62252ac" alt="logo ubunto" />
 </p>
-Este repositório oferece um tutorial abrangente sobre como configurar um servidor Ubuntu Server 24.04 usando o VirtualBox para simular um ambiente de rede. Este projeto foi criado para servir como um guia prático na configuração e administração de servidores Linux em um ambiente virtual.
+
+Este repositório oferece um tutorial abrangente sobre como configurar um servidor Ubuntu Server 24.04 usando o VirtualBox para simular um ambiente de rede. Este projeto foi criado para servir como um guia prático na configuração e administração de servidores Linux em um ambiente virtual. <br>
+
 🔍 Para mais detalhes, acesse a [Wiki]()
-
-Vou modificar o texto para que ele fique diferente:
-
 ---
 
 ## Sumário
