@@ -6,7 +6,7 @@
 
 Este repositório oferece um tutorial abrangente sobre como configurar um servidor Ubuntu Server 24.04 usando o VirtualBox para simular um ambiente de rede. Este projeto foi criado para servir como um guia prático na configuração e administração de servidores Linux em um ambiente virtual. <br>
 
-🔍 Para mais detalhes, acesse a [Wiki]()
+🔍 Para mais detalhes, acesse a [Wiki](https://github.com/joanacristinacs/Ubuntu-Server/wiki)
 ---
 
 ## Sumário
